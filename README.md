@@ -1,4 +1,4 @@
-Chạy file Gateway.py để khởi động gateway kết nối giữa ESP32 và Core IOT
+Chạy file Gateway.py để khởi động gateway kết nối giữa ESP32 và Core IOT.
 Chức năng chính:
 - Cấu hình MQTT local giao tiếp với ESP32.
 - Cấu hình MQTT giao tiếp với Core IOT.
@@ -7,3 +7,5 @@ Chức năng chính:
 - Xử lí dữ liệu gửi lên từ ESP32 và gửi lên Core IOT.
 
 Chạy file AI_driver.py để khởi động hệ thống nhận diện lá cây bằng camera
+Dashboard UI:
+<img width="1832" height="921" alt="Image" src="https://github.com/user-attachments/assets/e17812e8-d34e-4be9-83ef-a6ef0d4d3a0a" />
